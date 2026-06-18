@@ -1,0 +1,3 @@
+EMAIL_SENDER=prof2026tdoptimization@gmail.com
+EMAIL_PASSWORD=ajzv hmfq rjrf snya
+EMAIL_RECEIVER=prof2026tdoptimization@gmail.com
